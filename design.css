@@ -1,0 +1,20 @@
+<style>
+        
+       
+        #box{
+            color: rgb(14, 7, 3); background-image: url(a-ocean-cliff-background-vector-23083495.avif); width: 800px;
+             height: 300px; margin: 30px; padding: 10px 20px;text-align: justify;
+            border: 10px solid orange;box-shadow: 10px 15px 20px;
+        }
+        .text{
+            color: black; background-image: url(mandala-pattern-on-orange-background-vector-28551934.avif);width: 800px;
+            height: 300px; margin: 30px; padding: 10px 20px; text-align: justify;
+            border: 10px solid rgb(207, 120, 58); box-shadow: 10px 15px 20px; text-decoration:underline;
+        }
+        #pen{
+            color: rgb(0, 0, 0); background-image: url(background-design-with-mandala-pattern-vector-27144178.avif);
+            padding: 10px 20px;
+             margin: 30px ; border:10px solid red ; width: 800px;height: 300px; text-align:justify;box-shadow: red 10px 15px 20px;
+        }
+       
+    </style>

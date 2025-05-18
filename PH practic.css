@@ -1,0 +1,9 @@
+.external{
+    color: rgb(210, 127, 11);background-color: blanchedalmond;padding: 10px 10px 10px;border: 2px solid rgb(173, 83, 19);
+    margin-top: 5px; box-shadow: 2px 3px 4px chocolate;font-size: 18px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    .head{
+    color: bisque;padding: 10px 10px 10px; border: 2px solid palegreen; margin: 10px 10px 10px; 
+     height: 20pz; width: 400px;background-color: brown;
+
+}

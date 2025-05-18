@@ -1,0 +1,24 @@
+.header{
+    color: rgb(4, 187, 187);
+    background-image: url(images\ \(1\).jpeg);
+    background-size: cover;
+    padding: 10px 10px 10px;
+    height: 400px;
+    font-family:red serif;
+    font-size: 50px;
+}
+.xx{
+    color: red; background-color: bisque; margin: 10px 350px 20px;
+     padding: 10px 15px 20px; border: 1px solid skyblue; width: 200px;
+     height: 270px; text-align: center; font-size: medium;
+}
+#zz{
+    text-align: left; font-size: 15px;
+}
+
+   .xxxx{
+    color: blueviolet; 
+    background-image: url(color-floral-mandala-vector-14941097.avif);
+    height: 300px;
+    text-align: justify;
+   }
